@@ -7,7 +7,6 @@ My name is Iván Ajenjo and I'm a software engineer. I'm from Spain, living in V
 - 📫 How to reach me: [![Twitter][1.2]][1]
 - ⚡ Fun fact: I have been playing basketball since I was 5 years old
 
-I have been playing basketball since I was 5 years old
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
