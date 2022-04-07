@@ -2,7 +2,7 @@
 
 My name is Iván Ajenjo and I'm a software engineer. I'm from Spain, living in Valencia.
 
-- 🔭 I’m currently working on some Microservices Java-Angular apps
+- 🔭 I’m currently working on some Microservices based Java-Angular apps
 - 📫 How to reach me: [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 - ⚡ Fun fact: I have been playing basketball since I was 5 years old
 
